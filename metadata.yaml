@@ -1,0 +1,24 @@
+_repo: Little-Mexican-Other-Stories_64814
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Huxley, Aldous
+    alias: Huxley, Aldous Leonard
+    birthdate: 1894
+    deathdate: 1963
+    gutenberg_agent_id: '780'
+    url: http://www.gutenberg.org/2009/agents/780
+    wikipedia: https://en.wikipedia.org/wiki/Aldous_Huxley
+description: ''
+gutenberg_issued: '2021-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64814'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Little Mexican & Other Stories
+url: http://www.gutenberg.org/ebooks/64814
